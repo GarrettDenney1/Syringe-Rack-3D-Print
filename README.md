@@ -4,4 +4,4 @@ Our studys usually identifies rodents based on their sex (M or F) and a number. 
 
 I've also included a design with normal numbering, up to 28 slots, and a blank desing with no numbers at all.
 
-The shape of each slot was designed to fit a 1mL [BD brand]([url](https://www.bd.com/en-us/products-and-solutions/products/product-page.309628)https://www.bd.com/en-us/products-and-solutions/products/product-page.309628) syringe.
+The shape of the slots was designed to fit a 1mL BD Brand Leur-Lok syringe.
