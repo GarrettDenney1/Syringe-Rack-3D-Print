@@ -3,3 +3,5 @@ Created to optimize rodent injection workflow. Previously, our lab would individ
 Our studys usually identifies rodents based on their sex (M or F) and a number. To give an example, in the case of our current study we have 32 rats total (16 of each sex) group housed two to each cage and number them M1, M2, F1, F2, M3, M4, F3, F4,... M15, M16, F15, F16 which is also the order they'll be injected which correlates to the IDs on the syringe racks. The files labelled Rack #1 - Rack #5 use this system of identification.
 
 I've also included a design with normal numbering, up to 28 slots, and a blank desing with no numbers at all.
+
+The shape of each slot was designed to fit a 1mL [BD brand]([url](https://www.bd.com/en-us/products-and-solutions/products/product-page.309628)https://www.bd.com/en-us/products-and-solutions/products/product-page.309628) syringe.
