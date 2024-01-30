@@ -8,5 +8,7 @@ The shape of the slots was designed to fit a 1mL BD Brand Luer-Lok syringe.
 
 Although the design is my own, some designs I found online while researching were definitely inspiring including one from cults3d.com: https://cults3d.com/en/3d-model/home/stackable-parametric-syringe-rack
 
+
 01/29/24 Update
+
 After realizing the originals were not tall enough to prevent the needle from touching the work surface, I have doubled the height of the racks. See the folder titled "Updated Taller Racks".
