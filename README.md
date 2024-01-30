@@ -6,7 +6,8 @@ I've also included a design with normal numbering, up to 28 slots, and a blank d
 
 The shape of the slots was designed to fit a 1mL BD Brand Leur-Lok syringe.
 
-Although the design is my own, some designs I found online while researching were definitely inspiring including [this one]([url](https://cults3d.com/en/3d-model/home/stackable-parametric-syringe-rack)https://cults3d.com/en/3d-model/home/stackable-parametric-syringe-rack) from cults3d.com.
+Although the design is my own, some designs I found online while researching were definitely inspiring including one from cults3d.com: https://cults3d.com/en/3d-model/home/stackable-parametric-syringe-rack
 
 01/29/24 Update
+
 After realizing the originals were not tall enough to prevent the needle from touching the work surface, I have doubled the hight of the racks. See the folder titled "Updated Taller Racks".
