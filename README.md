@@ -8,6 +8,7 @@ The shape of the slots was designed to fit a 1mL BD Brand Luer-Lok syringe.
 
 Although the design is my own, some designs I found online while researching were definitely inspiring including one from cults3d.com: https://cults3d.com/en/3d-model/home/stackable-parametric-syringe-rack
 
+![IMG_6683](https://github.com/GarrettDenney1/Syringe-Rack-3D-Print/assets/157542891/71b60647-7409-46cc-8b16-c67db16966b8)
 
 01/29/24 Update
 
