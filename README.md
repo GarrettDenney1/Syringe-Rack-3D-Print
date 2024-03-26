@@ -12,9 +12,11 @@ The shape of the slots was designed to fit a 1mL BD Brand Luer-Lok syringe, but 
 Although the design is my own, some designs I found online while researching were definitely inspiring including one from cults3d.com: https://cults3d.com/en/3d-model/home/stackable-parametric-syringe-rack
 
 01/29/24 Update 
+
 After realizing the originals were not tall enough to prevent the needle from touching the work surface, I have doubled the height of the racks. See the folder titled "Updated Taller Racks".
 
 03/26/24 Update 
+
 The syringe racks have made injections go very smoothly and my lab and I have been using them for the past few weeks! Below are some pictures of the racks with syringes. As you can see in the second image, the racks make it very easy to verify that each syringe has the correct volume!
 
 ![IMG_6789](https://github.com/GarrettDenney1/Syringe-Rack-3D-Print/assets/157542891/7510b2c4-02f5-4ebd-81c6-3ada21cbc0f0)
