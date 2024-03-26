@@ -1,4 +1,6 @@
-**Created to optimize rodent injection workflow**            **Scroll down to see pictures!**
+**Scroll down to see pictures!**
+
+**Created to optimize rodent injection workflow**            
 
 Previously, our lab would individually label each syringe with a piece of tape, then keep them in a standard vertical syringe rack before filling each syringe according to the dose for each rodent. We would then lay the syringes down on the worksurface in the order of injections. This process was tedious and had room for improvement. I designed this horizontal syringe rack so that we could more easily keep track of the ID of each syringe, maintain sterility by keeping the needles further above the work surface, and to help stay organized, which is especially hard when you need to quickly inject a large number of rodents in a row.
 
