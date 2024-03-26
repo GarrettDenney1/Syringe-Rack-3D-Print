@@ -1,4 +1,6 @@
-![IMG_6789](file:///Users/garrettdenney/Downloads/IMG_6789.jpg =250x250)
+![IMG_6789](https://github.com/GarrettDenney1/Syringe-Rack-3D-Print/assets/157542891/7510b2c4-02f5-4ebd-81c6-3ada21cbc0f0)
+
+![IMG_6796](https://github.com/GarrettDenney1/Syringe-Rack-3D-Print/assets/157542891/df7117f9-35b9-408e-9881-122f35a68545)
 
 
 **Created to optimize rodent injection workflow**
